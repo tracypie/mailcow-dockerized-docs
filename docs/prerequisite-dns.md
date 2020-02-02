@@ -70,7 +70,7 @@ _caldavs._tcp       IN TXT     "path=/SOGo/dav/"
 Here are some tools you can use to verify your DNS configuration:
 
 - [MX Toolbox](https://mxtoolbox.com/SuperTool.aspx) (DNS, SMTP, RBL)
-- [port25.com](https://www.port25.com/dkim-wizard/) (DKIM, SPF)
+- [sparkpost.com](https://www.sparkpost.com/resources/tools/dkim-wizard/) (DKIM, SPF)
 - [Mail-tester](https://www.mail-tester.com/) (DKIM, DMARC, SPF)
 - [DMARC Analyzer](https://www.dmarcanalyzer.com/spf/checker/) (DMARC, SPF)
 
